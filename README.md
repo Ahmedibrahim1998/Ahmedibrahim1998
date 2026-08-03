@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Ahmed Ibrahim</h1>
 
 <p align="center">
-  <b>Senior Full Stack PHP / Laravel Developer</b> · 🇪🇬 Cairo, Egypt
+  <b>Software Engineer</b> · Senior Full Stack PHP / Laravel Developer · 🇪🇬 Cairo, Egypt
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🙋 About Me
 
-Hi there! I'm **Ahmed Ibrahim**, a passionate **Full Stack PHP / Laravel Developer** from 🇪🇬 Egypt with **4+ years** of hands-on experience building and maintaining production web applications.
+Hi there! I'm **Ahmed Ibrahim**, a passionate **Software Engineer** and **Senior Full Stack PHP / Laravel Developer** from 🇪🇬 Egypt with **4+ years** of hands-on experience building and maintaining production web applications.
 
 My main focus is backend development using **PHP** and **Laravel**, where I enjoy building scalable systems, RESTful APIs, and clean backend architectures. I also have solid experience in frontend development using **React**, **Vue.js** and **Bootstrap**, allowing me to work across different parts of the development process when needed.
 
