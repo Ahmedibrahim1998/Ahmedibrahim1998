@@ -104,7 +104,7 @@ I've delivered projects across **legal-tech**, **healthcare ERP**, **e-commerce*
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** a.ibrahim.software@gmail.com
+- 📧 **Email:** a.ibrahim.software98@gmail.com
 - 💼 **LinkedIn:** [ahmed-ibrahim](https://www.linkedin.com/in/ahmed-ibrahim-86a36b176/)
 - 📍 **Location:** Cairo, Egypt
 - 💬 Open to new opportunities and interesting projects!
